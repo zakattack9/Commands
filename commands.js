@@ -39,3 +39,6 @@
 
 // http://zak-dev-serverlessdeploymentbucket-179rc2ts8tuat.s3-website-us-west-2.amazonaws.com/
 // link to website, follow format of: http://bucketname.region.amazonaws.com
+
+// deploy lambdas (deploys everything)
+// sls deploy
