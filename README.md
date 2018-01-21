@@ -28,7 +28,7 @@ http://www.postgresqltutorial.com/postgresql-drop-column/
 //  age INT NOT NULL
 //  );
 
-//  *CHAR(50) refers to the maximum amount of characters allowed; NOT NULL means the value wont be accepted or injected if nothing is inputed*
+//  *CHAR(50) refers to the maximum amount of characters allowed; NOT NULL means the value wont be accepted or injected if nothing is inputed* USE `varchar( )` TO SET MAX AMOUNT BUT NOT ADD EXTRA SPACING!
 
 //  you can press enter after each line to enter commands; the command won't execute until the semicolon is entered
 
