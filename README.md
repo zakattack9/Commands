@@ -68,3 +68,5 @@ http://www.postgresqltutorial.com/postgresql-drop-column/
 // postgres AWS endpoint
 // zak.cb9co1xxtizk.us-west-2.rds.amazonaws.com
 
+//  \pset pager off
+//  stops running command after executed
